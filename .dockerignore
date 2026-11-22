@@ -1,0 +1,16 @@
+.git
+target
+node_modules
+dist
+.angular
+config/application-local.properties
+Wallet*
+wallet*
+**/*.sso
+**/*.p12
+**/*.jks
+**/*.pem
+**/*.zip
+**/*.rar
+.env
+.env.*
